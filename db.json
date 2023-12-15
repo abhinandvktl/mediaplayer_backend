@@ -1,0 +1,127 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "kgf",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-91576319,width-400,resizemode-4/91576319.jpg",
+      "url": "https://www.youtube.com/embed/ULEQb_l-N08"
+    },
+    {
+      "id": "2",
+      "caption": "salaar",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BODAyYjIzZDEtMjFkMy00OGE2LWEzODItYmE4NjhkNzYxNmRjXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_FMjpg_UX1000_.jpg",
+      "url": "https://www.youtube.com/embed/HihakYi5M2I"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "tamil",
+      "allVideos": []
+    },
+    {
+      "id": "2",
+      "name": "malayalam",
+      "allVideos": [
+        {
+          "id": "2",
+          "caption": "salaar",
+          "thumbnail": "https://m.media-amazon.com/images/M/MV5BODAyYjIzZDEtMjFkMy00OGE2LWEzODItYmE4NjhkNzYxNmRjXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_FMjpg_UX1000_.jpg",
+          "url": "https://www.youtube.com/embed/HihakYi5M2I"
+        },
+        {
+          "id": "1",
+          "caption": "kgf",
+          "thumbnail": "https://static.toiimg.com/thumb/msid-91576319,width-400,resizemode-4/91576319.jpg",
+          "url": "https://www.youtube.com/embed/ULEQb_l-N08"
+        }
+      ]
+    }
+  ],
+  "watchhistory": [
+    {
+      "id": 1,
+      "categoryName": "rdx",
+      "url": "https://www.youtube.com/watch?v=NJjDRnE-5_4",
+      "date": "11-06-2023"
+    },
+    {
+      "id": "5d60d89f-02ae-4682-9026-4c6538faccd4",
+      "categoryName": "cid moosa",
+      "url": "https://www.youtube.com/embed/lhREi2M0DnI",
+      "date": "2023-12-12T04:46:54.320Z"
+    },
+    {
+      "id": "fd4e01d1-5d40-458b-aa7a-f7e156a80224",
+      "categoryName": "animal",
+      "url": "https://www.youtube.com/embed/fQOjh-mmNKo",
+      "date": "2023-12-12T04:49:21.280Z"
+    },
+    {
+      "id": "01c4c527-7be4-457e-a85c-8d6cd8c36736",
+      "categoryName": "animal",
+      "url": "https://www.youtube.com/embed/fQOjh-mmNKo",
+      "date": "2023-12-13T03:29:31.126Z"
+    },
+    {
+      "id": "1cac737e-b29b-45f3-8db6-ccaca53a1b82",
+      "categoryName": "cid moosa",
+      "url": "https://www.youtube.com/embed/lhREi2M0DnI",
+      "date": "2023-12-13T03:29:41.079Z"
+    },
+    {
+      "id": "1555f35b-01e8-4591-813d-a32f5b962efe",
+      "categoryName": "animal",
+      "url": "https://www.youtube.com/embed/fQOjh-mmNKo",
+      "date": "2023-12-13T03:31:46.270Z"
+    },
+    {
+      "id": "a95ea09b-5406-44dc-ab46-0c0486fdc1c6",
+      "categoryName": "cid moosa",
+      "url": "https://www.youtube.com/embed/lhREi2M0DnI",
+      "date": "2023-12-13T03:35:15.010Z"
+    },
+    {
+      "id": "e01a6b1b-2a15-4ff4-bf52-0ac0ab366c3e",
+      "categoryName": "KGF 1",
+      "url": "https://www.youtube.com/embed/gKizDojsdvs",
+      "date": "2023-12-13T03:36:20.410Z"
+    },
+    {
+      "id": "e58312c0-9512-4039-bcab-b7e48c96c23f",
+      "categoryName": "KGF 1",
+      "url": "https://www.youtube.com/embed/lhREi2M0DnI",
+      "date": "2023-12-13T03:38:00.641Z"
+    },
+    {
+      "id": "9fd4ad82-fdec-4b50-85ab-5044a20e9104",
+      "categoryName": "KGF 1",
+      "url": "https://www.youtube.com/embed/lhREi2M0DnI",
+      "date": "2023-12-13T03:38:29.291Z"
+    },
+    {
+      "id": "dd6a9564-6b65-443a-8abe-e7474eb0759a",
+      "categoryName": "KGF 1",
+      "url": "https://www.youtube.com/embed/Frp0zC4643U",
+      "date": "2023-12-13T03:38:56.746Z"
+    },
+    {
+      "id": "fe5ec7f4-6133-481a-be71-ccf2f66bc59f",
+      "categoryName": "KGF 1",
+      "url": "https://www.youtube.com/embed/Frp0zC4643U",
+      "date": "2023-12-13T03:47:58.324Z"
+    },
+    {
+      "id": "5d11ff1d-26c9-4166-a01c-a7f1e81247ef",
+      "categoryName": "KGF 1",
+      "url": "https://www.youtube.com/embed/Frp0zC4643U",
+      "date": "2023-12-14T04:05:53.501Z"
+    },
+    {
+      "id": "75936f8e-e04b-46a4-af3e-0dff834532c9",
+      "categoryName": "kgf",
+      "url": "https://www.youtube.com/embed/ULEQb_l-N08",
+      "date": "2023-12-14T04:25:00.186Z"
+    }
+  ]
+}
